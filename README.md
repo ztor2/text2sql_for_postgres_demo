@@ -1,1 +1,1 @@
-# Text-to-SQL Generator for PostgreSQL
+# Text-to-SQL Generator for PostgreSQL(Demo)
