@@ -6,5 +6,6 @@
 - Huggingface 기반 Private LLM 시스템을 적용하여 데이터 보안을 준수합니다.
 <br>
 
-![Untitled presentation](https://github.com/ztor2/text2sql_for_postgres_demo/assets/57743113/2f8dbc3f-2e98-4f5c-8b32-3edc4d85fcb6)
+![img_2](https://github.com/ztor2/text2sql_for_postgres_demo/assets/57743113/e256a20d-10af-487c-8942-4b668765f659)
+
 
